@@ -1,5 +1,5 @@
-# Limpo Drivers - A non uber company 
-## and will never be. There is just no money in this business
+# Limpo Drivers - 
+## A non uber company for high end car drivers looking to make extra moeny
 
 Welcome to the Google Api Test App! This application leverages the Google Maps API to provide an interactive map experience, allowing users to search for locations, get directions, and explore various points of interest.
 
@@ -9,6 +9,13 @@ Welcome to the Google Api Test App! This application leverages the Google Maps A
 - **Location Search**: Search for specific locations using the search bar.
 - **Directions**: Get step-by-step directions between two points.
 - **Geolocation**: Find your current location on the map.
+
+
+## Motivation
+Offer neighbours a airport transfer service such as uber premium without the premium price
+
+## Further Features
+Calulator to estimate hourly profit taking into consideration ditance, traffic, time spend, petrol costs, tolls. (definately not a profitable business specially if you V8 does 18L/Kilometer)
 
 ## Installation
 
